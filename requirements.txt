@@ -1,0 +1,5 @@
+aiofiles
+asgiref
+twitchio
+asyncio
+typing

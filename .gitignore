@@ -1,0 +1,14 @@
+config.json
+config - backup.json
+test2.py
+test1.py
+__pycache__/lebot.cpython-311.pyc
+__pycache__/spinning_wheel_objs.cpython-310.pyc
+__pycache__/debuggingcommands.cpython-311.pyc
+__pycache__/spinning_wheel_slices.cpython-310.pyc
+__pycache__/spinning_wheel.cpython-310.pyc
+__pycache__/spinning_wheel.cpython-311.pyc
+__pycache__/spinning_wheel_objs.cpython-311.pyc
+__pycache__/spinning_wheel_slices.cpython-311.pyc
+__pycache__/lebot.cpython-310.pyc
+__pycache__/bot.cpython-311.pyc
